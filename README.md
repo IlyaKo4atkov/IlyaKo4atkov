@@ -13,3 +13,7 @@ ML-инженер
 Мой стек:
 
 Python, NumPy, Pandas, Seaborn, Mathplotlib, Алгоритмы класстеризации данных, TensorFlow, Keras, AutoML, OpenAI, Computer Vision, Автокодировщики-GAN. 
+
+Мои контакты для связи:
+ТГ: https://t.me/coder_onesky
+Почта: ko4atkov.ilya@yandex.ru
