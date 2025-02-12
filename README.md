@@ -19,7 +19,7 @@ ML/DL-инженер
 
 Создал модель нейронной сети, которая по данным делает предсказания болезни Паркинсона
 
-[Ссылка на проект] (https://github.com/IlyaKo4atkov/MyProjects/blob/main/Models_Neural_Network.ipynb)
+[Текст ссылки](https://github.com/IlyaKo4atkov/MyProjects/blob/main/Models_Neural_Network.ipynb)
 
 Мой стек:
 
